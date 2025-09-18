@@ -1,0 +1,12 @@
+{
+  "test": {
+    "password": "$2b$12$CjNd.Z9wSoI9cC77JEn/WeJ2eV7gQn8QXGIP1oQk3pPpKk7/k7Kle",
+    "totp_seed": "JBSWY3DPEHPK3PXP",
+    "role": "admin"
+  },
+  "user2": {
+    "password": "$2b$12$3Xj0H5/3dE4WBwRbYtKveOe4NqKkG36j6tD8tqQh5lQy1ZAS6eQnG",
+    "totp_seed": "JBSWY3DPEHPK3PX2",
+    "role": "user"
+  }
+}
